@@ -1,0 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    padding:20px;
+    background-color:rgb(231, 229, 229);
+}
+textarea{
+    margin-top:20px;
+}
+legend{
+    font-family: 'Open Sans', sans-serif;
+}
+fieldset{
+    width:200px;
+}
